@@ -36,7 +36,7 @@ pandas==2.0.3
 patsy==0.5.3
 Pillow==9.5.0
 plotly==5.16.0
-pmdarima==2.0.3
+pmdarima
 prophet==1.1.4
 protobuf==4.23.4
 pyarrow
