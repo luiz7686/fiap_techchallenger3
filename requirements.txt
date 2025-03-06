@@ -35,7 +35,8 @@ packaging==23.1
 pandas==2.0.3
 patsy==0.5.3
 Pillow
-plotly
+pip uninstall plotly -y
+pip install plotly
 pmdarima
 prophet==1.1.4
 protobuf==4.23.4
