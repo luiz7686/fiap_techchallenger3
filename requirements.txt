@@ -33,6 +33,7 @@ rich==13.5.3
 rpds-py==0.10.3
 six==1.16.0
 smmap==5.0.1
+statsmodels
 streamlit==1.27.0
 tenacity==8.2.3
 toml==0.10.2
