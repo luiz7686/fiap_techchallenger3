@@ -32,6 +32,7 @@ referencing==0.30.2
 requests==2.31.0
 rich==13.5.3
 rpds-py==0.10.3
+sklearn
 six==1.16.0
 smmap==5.0.1
 statsmodels
